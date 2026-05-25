@@ -1,0 +1,6 @@
+{
+  "name": "Derslig",
+  "description": "Gamified K-12 educational learning application clone of Derslig.com. Learn topics, solve quizzes, earn Derslig coins and climb up the weekly league!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
